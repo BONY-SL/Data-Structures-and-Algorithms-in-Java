@@ -3,6 +3,7 @@ package timecomplexity;
 public class TimeComplexityDemo {
     public static void main(String[] args) {
 
+
         double now = System.currentTimeMillis();
 
         TimeComplexityDemo demo = new TimeComplexityDemo();
